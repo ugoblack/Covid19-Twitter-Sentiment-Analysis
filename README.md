@@ -30,8 +30,11 @@ This project analyzes sentiment in **COVID-19-related tweets** using **machine l
 ---
 
 ## 📂 **Project Structure**
-├── COVID19_Sentiment_Analysis.ipynb # Jupyter Notebook with code implementation ├── COVID19_Sentiment_Analysis_Report.pdf # Detailed report with findings 
+├── COVID19_Sentiment_Analysis.ipynb # Jupyter Notebook with code implementation 
 
+├── COVID19_Sentiment_Analysis_Report.pdf # Detailed report with findings 
+
+├── README.md # This file
 
 ---
 
